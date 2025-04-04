@@ -87,7 +87,7 @@ Este repositório é dedicado ao backend, desenvolvido em **Node.js com TypeScri
 1. **Clone o repositório**:
     ```bash
     git clone https://github.com/vgab1/devpizza-backend.git
-    cd pizzaria-beckend
+    cd pizzaria-backend
     ```
 
 2. **Instale as dependências**:
