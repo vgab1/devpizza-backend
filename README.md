@@ -130,7 +130,7 @@ Este repositório é dedicado ao backend, desenvolvido em **Node.js com TypeScri
 - Documentação da API: [https://pizzaria-beckend.vercel.app/api-docs](https://pizzaria-beckend.vercel.app/api-docs)
 - Endpoint da API: [https://pizzaria-beckend.vercel.app](https://pizzaria-beckend.vercel.app)
 - Repositório do Frontend Web: [https://github.com/vgab1/devpizza-frontend](https://github.com/vgab1/devpizza-frontend)
-- Repositório do Frontend Mobile: [Em desenvolvimento]
+- Repositório do Mobile: [https://github.com/vgab1/devpizza-mobile](https://github.com/vgab1/devpizza-mobile)
 
 ## Contato
 
