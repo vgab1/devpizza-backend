@@ -18,11 +18,11 @@
 
 ## Introdução
 
-Este repositório contém o backend do projeto [**Sujeito Pizza**](https://github.com/vgab1/devpizza-frontend), um sistema de atendimento para pizzarias. O backend é responsável por gerenciar pedidos, produtos e a comunicação entre a cozinha (web) e os garçons (mobile). O frontend (web e mobile) está separado em outros repositórios.
+Este repositório contém o backend do projeto [**DevPizza**](https://github.com/vgab1/devpizza-frontend), um sistema de atendimento para pizzarias. O backend é responsável por gerenciar pedidos, produtos e a comunicação entre a cozinha (web) e os garçons (mobile). O frontend (web e mobile) está separado em outros repositórios.
 
 ## Descrição Geral
 
-O **Sujeito Pizza** é um sistema completo para pizzarias, onde:
+O **DevPizza** é um sistema completo para pizzarias, onde:
 - **Garçons** usam um aplicativo mobile para realizar pedidos e gerenciar atendimentos.
 - **Cozinha** usa uma interface web para visualizar e preparar os pedidos.
 - **Backend** gerencia toda a lógica de negócios, incluindo pedidos, produtos, autenticação e integração com serviços externos (como Cloudinary para upload de imagens).
